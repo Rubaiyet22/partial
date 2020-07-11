@@ -1,0 +1,2 @@
+# partial
+I will work.
